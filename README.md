@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋 I'm Rishi Jha<br><br>Java Backend Developer | Spring Boot | Learning Full Stack Development<br><br>🔭 Currently Working On<br><br>Smart Complaint & Issue Tracking System (Spring Boot + PostgreSQL)<br><br>🌱 Currently Learning<br><br>Java Full Stack Development<br>Backend Architecture & REST API Design<br><br>💬 Ask Me About<br><br>Java & Spring Boot<br>REST API Development<br>Backend System Design<br><br>⚡ Fun Fact<br><br> I enjoy turning ideas into real backend systems and solving logical problems.<br>
+Hi 👋 I'm Rishi Jha<br>Java Backend Developer | Spring Boot<br><br>I’m currently working on Smart Complaint & Issue Tracking System using Spring Boot.<br><br>I’m currently learning Java Full Stack Development, REST APIs and Backend Development.<br><br>Ask me about Java, Spring Boot and Backend Development.
 
 
 # 💻 Tech Stack:
