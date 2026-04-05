@@ -26,4 +26,4 @@ Java Backend Developer focused on building scalable REST APIs using Spring Boot.
 - CRUD-based blog system with authentication
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
+- LinkedIn: linkedin.com/in/rishi-jha-b103262a9
