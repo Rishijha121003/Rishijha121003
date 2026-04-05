@@ -27,7 +27,7 @@ Java Backend Developer focused on building scalable REST APIs using Spring Boot.
 
 ## 📫 Connect with me
 - LinkedIn: (your link)
-![](https://komarev.com/ghpvc/?username=Rishijha121003&color=blue)
+
 
 ---
 
