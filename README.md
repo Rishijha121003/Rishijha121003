@@ -1,13 +1,32 @@
-# 💫 About Me
-Hi 👋 I'm **Rishi Jha**  
-Java Backend Developer | Spring Boot  
+# Hi, I'm Rishi Jha 👋
 
-🔭 Currently working on **Smart Complaint & Issue Tracking System** using Spring Boot.  
+Java Backend Developer focused on building scalable REST APIs using Spring Boot.
 
-🌱 Currently learning **Java Full Stack Development, REST APIs and Backend Development.**  
+## 🚀 Current Work
+- Building Smart Complaint & Issue Tracking System (Spring Boot + PostgreSQL)
 
-💬 Ask me about **Java, Spring Boot and Backend Development.**
+## 🛠️ Tech Stack
+- Java, Spring Boot, REST APIs
+- PostgreSQL, MySQL
+- Git, Postman
 
+## 📌 Featured Projects
+
+### Smart Complaint & Issue Tracking System
+- Role-based system (Admin/Staff/User)
+- Complaint tracking & management
+- REST APIs with Spring Boot
+- PostgreSQL database integration
+
+### Blogify (Microservices Backend)
+- Microservices architecture using Spring Boot
+- Separate services for users & blogs
+
+### Django Blog Application
+- CRUD-based blog system with authentication
+
+## 📫 Connect with me
+- LinkedIn: (your link)
 ![](https://komarev.com/ghpvc/?username=Rishijha121003&color=blue)
 
 ---
